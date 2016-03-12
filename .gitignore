@@ -4,3 +4,9 @@
 *.xml
 
 *.iml
+
+*.pyc
+
+client_secret.json
+
+temp.mp3
